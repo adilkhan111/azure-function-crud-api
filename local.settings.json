@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "END_POINT_URI": "https://adilcosmosaccount.documents.azure.com:443/",
+    "PRIMARY_KEY": "IGZlFYcgyZklki0zVylMeKWKANdWshfRZ8lRCqNig0Qyll8UvoxgZl1y66HlKyJMVWX3gcf9t4bLSoSODc1GTg=="
+  }
+}
